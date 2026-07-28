@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * @author tatyp
  */
+
 public class Ejercicios {
 
     static Scanner leer = new Scanner(System.in);
